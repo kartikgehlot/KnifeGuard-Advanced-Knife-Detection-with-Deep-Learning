@@ -1,0 +1,9 @@
+loss function 
+models 
+CNN architecture 
+epochs
+tsne
+table for data
+graph for mAP
+
+zip log files 

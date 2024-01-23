@@ -1,0 +1,22 @@
+schedular
+loss function
+LR
+batch size
+epochs 
+optimizer -- adam, basic optimier(rmsprop, sgd), etc
+adagrad
+models -- resnet, VGG, mobilenet, transfomer--VIT, 
+efficient net
+
+ 
+
+-- 
+
+EfficientNet Architecture
+Data Augmentation
+Cross-Entropy Loss
+Gradient Scaling (Mixed Precision Training)
+Optimizer and Learning Rate Scheduler
+Top-k Accuracy and mAP (Mean Average Precision)
+
+
